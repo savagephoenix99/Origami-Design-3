@@ -1,0 +1,56 @@
+.text{
+    background-color:rgb(255, 149, 246);
+    border-bottom-left-radius: 20px;
+    border-bottom-right-radius: 20px;
+    margin-top: -20.7px;
+}
+
+
+.text{
+    text-align: center;
+    font-family: cursive;
+}
+
+body{
+    margin: 0px;
+    background-color: bisque;
+    
+}
+
+.grid{
+    display:flex;
+    justify-content: space-evenly;
+    flex-wrap: wrap;
+    margin-top: 50px;
+    
+}
+
+.grid img {
+    border: 2px solid black;
+    border-radius: 25px;
+    
+
+}
+
+.items{
+    background-color: white;
+    border-radius: 20px;
+    width: 300px;
+    padding: 15px;
+    font-size: 20px;
+    font-family: 'Times New Roman', Times, serif;
+    
+
+}
+
+.heading{
+    background-color: rgb(0, 0, 0);
+    display: flex;
+    justify-content:space-around;
+   
+}
+
+.about{
+    color: white;
+}
+
